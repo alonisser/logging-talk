@@ -93,7 +93,7 @@ class: center, middle
 
 * Following the [12 factor app manifesto - logs chapter](https://12factor.net/logs), logs should be streams
 
-* Allowing the container (supervisor/PASS platform/docker platform/etc) to handle logging streams
+* Allowing the container (supervisor/PAAS platform/docker platform/etc) to handle logging streams
 
 * Bad practice: Wiring logging handlers inside your app, such as file logging, logging to logstash etc.
 
