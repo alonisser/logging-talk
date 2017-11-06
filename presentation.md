@@ -2,7 +2,7 @@ class: center, middle
 
 # Logging.
 
-[live presentation](https://alonisser.github.io/logging) <br/>
+[live presentation](https://alonisser.github.io/logging-talk) <br/>
 [twitter](alonisser@twitter.com), [medium](https://medium.com/@alonisser/)
 
 #####Shameless promotion: you can also read my political blog: [דגל אדום](degeladom@wordpress.com)

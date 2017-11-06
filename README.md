@@ -2,4 +2,4 @@
 
 ## A talk for PywebIL meetup
 
-## Live presentation [here](https://alonisser.github.io/logging)
+## Live presentation [here](https://alonisser.github.io/logging-talk)
